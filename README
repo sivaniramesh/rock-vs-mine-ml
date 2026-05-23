@@ -1,0 +1,40 @@
+-------Sonar Rock vs Mine Prediction--------
+
+About the Project:
+This is a simple Machine Learning project that predicts whether an underwater object is a Rock or a Mine using sonar signal data. The project is built using Logistic Regression in Python.
+
+Technologies Used:
+-Python
+-NumPy
+-Pandas
+-Scikit-learn
+-Dataset Information
+
+The dataset contains:
+60 input features
+
+Output labels:
+R -> Rock
+M -> Mine
+
+Project Steps:
+Import required libraries -> Load the dataset -> Separate features and labels -> Split training and testing data -> Train the Logistic Regression model -> Check model accuracy - > Predict whether the object is Rock or Mine -> Model Used -> LogisticRegression()
+
+Logistic Regression is used for classification problems like:
+-Yes/No
+-Spam/Not Spam
+-Rock/Mine
+
+Sample Prediction:
+Input → Sonar Signal Data
+Output → Rock or Mine
+
+What I Learned:
+-Basics of Machine Learning
+-Data preprocessing
+-Logistic Regression
+-Model training and prediction
+-Accuracy evaluation
+
+Conclusion:
+This project helped me understand how Machine Learning models are trained and used for prediction tasks. It is a beginner-friendly project for learning classification using Python.
